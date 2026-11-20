@@ -9,6 +9,9 @@ Free Google Colab notebooks for the *Machine Learning Explained* whiteboard vide
 | NumPy, pandas and Matplotlib | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/numpy-pandas-matplotlib/numpy_pandas_matplotlib.ipynb) |
 | Statistics for Machine Learning | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/statistics-basics/statistics_for_machine_learning.ipynb) |
 | Probability and Bayes' Theorem | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/probability-and-bayes/probability_and_bayes.ipynb) |
+| Vectors and Matrices | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/vectors-and-matrices/vectors_and_matrices.ipynb) |
+| The Machine Learning Workflow | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/machine-learning-workflow/machine_learning_workflow.ipynb) |
+| Linear Regression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uttam-Nepal/machine-learning-explained/blob/main/linear-regression/linear_regression.ipynb) |
 
 ## How to use a notebook
 1. Click **Open in Colab** next to the video. Sign in with a free Google account if asked.
